@@ -1,0 +1,11 @@
+# Private database credentials
+config/db.properties
+
+# Java compiled files
+*.class
+
+# Application logs
+logs/
+
+# macOS files
+.DS_Store
